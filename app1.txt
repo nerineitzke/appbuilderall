@@ -1,4 +1,8 @@
 1 + 1
 item 2
 gatos
+<<<<<<< HEAD
 cachorro 29_11 ++
+=======
+cachorro 29_11 + vanos que vamos - de novo
+>>>>>>> Hotfix-1_alteracao_2020
